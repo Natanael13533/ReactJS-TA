@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/reactjs-PA/static/css/main.db62923b.css",
-    "main.js": "/reactjs-PA/static/js/main.4acf1e4b.js",
-    "static/js/453.ad5dcef8.chunk.js": "/reactjs-PA/static/js/453.ad5dcef8.chunk.js",
-    "static/media/baju-jamur.jpg": "/reactjs-PA/static/media/baju-jamur.d2f71a488836ef1f054e.jpg",
-    "static/media/baju-batik.jpg": "/reactjs-PA/static/media/baju-batik.b7c15051e2260d3ac4b2.jpg",
-    "static/media/sepatu.jpg": "/reactjs-PA/static/media/sepatu.97d04f81a5338d1ded51.jpg",
-    "static/media/moai.jpg": "/reactjs-PA/static/media/moai.f54cfe774e5c7bc53a6e.jpg",
-    "index.html": "/reactjs-PA/index.html",
-    "main.db62923b.css.map": "/reactjs-PA/static/css/main.db62923b.css.map",
-    "main.4acf1e4b.js.map": "/reactjs-PA/static/js/main.4acf1e4b.js.map",
-    "453.ad5dcef8.chunk.js.map": "/reactjs-PA/static/js/453.ad5dcef8.chunk.js.map"
+    "main.css": "/ReactJS-TA/static/css/main.db62923b.css",
+    "main.js": "/ReactJS-TA/static/js/main.3268a93a.js",
+    "static/js/453.ad5dcef8.chunk.js": "/ReactJS-TA/static/js/453.ad5dcef8.chunk.js",
+    "static/media/baju-jamur.jpg": "/ReactJS-TA/static/media/baju-jamur.d2f71a488836ef1f054e.jpg",
+    "static/media/baju-batik.jpg": "/ReactJS-TA/static/media/baju-batik.b7c15051e2260d3ac4b2.jpg",
+    "static/media/sepatu.jpg": "/ReactJS-TA/static/media/sepatu.97d04f81a5338d1ded51.jpg",
+    "static/media/moai.jpg": "/ReactJS-TA/static/media/moai.f54cfe774e5c7bc53a6e.jpg",
+    "index.html": "/ReactJS-TA/index.html",
+    "main.db62923b.css.map": "/ReactJS-TA/static/css/main.db62923b.css.map",
+    "main.3268a93a.js.map": "/ReactJS-TA/static/js/main.3268a93a.js.map",
+    "453.ad5dcef8.chunk.js.map": "/ReactJS-TA/static/js/453.ad5dcef8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.4acf1e4b.js"
+    "static/js/main.3268a93a.js"
   ]
 }
